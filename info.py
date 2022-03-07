@@ -8,8 +8,6 @@ fourthClass = ("10:30")
 fifthClass = ("11:15")
 dummyclass = ("19:48")
 
-#Subscribe = "www.youtube.com/HasanImam"
-
 #enter links here
 english = ("https://")
 maths = ("https://")
